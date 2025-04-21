@@ -16,7 +16,7 @@ creatUSer.prototype.increment = function(){
     this.score++
 }
 
-creatUSer.prototype.printme= function(){
+creatUSer.prototype.printme = function(){
     console.log(`price is ${this.score}`);
 }
 
